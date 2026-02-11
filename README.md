@@ -5,6 +5,14 @@
 [![Qiskit](https://img.shields.io/badge/Qiskit-1.4.4-blueviolet.svg)](https://qiskit.org/)
 [![AWS Braket](https://img.shields.io/badge/AWS_Braket-1.101.0-orange.svg)](https://aws.amazon.com/braket/)
 
+<p align="center">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Qcraft-UEx/Qcraft/blob/main/docs/_images/qcraft_logo.png?raw=true" width="60%">
+     <img src="https://github.com/Qcraft-UEx/Qcraft/blob/main/docs/_images/qcraft_logo.png?raw=true" width="60%" alt="Qcraft Logo">
+   </picture>
+  </a>
+</p>
+
 ## Description
 
 **QCRAFT QIM** is an advanced quantum circuit scheduling and optimization system that implements intelligent placement algorithms for quantum circuit execution on both IBM Quantum and AWS Braket platforms. 
